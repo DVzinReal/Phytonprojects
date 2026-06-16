@@ -1,0 +1,3 @@
+#no primeiro codigo o valor da variavel idade esta entre parenteses transformando 20 em string e não um valor real oque vai fazer que a saida do codigo seja algo como: 205
+#no segundo codigo é criada uma pequena lista de numeros e é pedido na saido o quinto numero da lista porem a lista so tem 3 numeros e mesmo se tivesse 5 não sairia pois listas começam em 0 dessa forma o output desse codigo seria: list index out of range
+#no terceiro codigo é guardado o valor "abc" na variavel valor e depois é pedido que a variavel numero armazene a variavel valor como float porem o valor armazenado na variavel valor é um str pois esta entre parenteses e mesmo se não estivesse estaria errado pois não se pode usar letras em float
