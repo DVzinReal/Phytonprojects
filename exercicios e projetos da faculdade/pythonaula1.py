@@ -1,0 +1,10 @@
+nome = input("Digite o nome do aluno: ")
+idade = int(input("Digite a idade do aluno: "))
+curso = input("Digite o curso: ")
+semestre = int(input("Digite o semestre atual: "))
+
+print("\n---CADASTRO DO ALUNO---")
+print("nome:", nome)
+print("idade:", idade)
+print("Curso:", curso)
+print("Semestre:", semestre) 
